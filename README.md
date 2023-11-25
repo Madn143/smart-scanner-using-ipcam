@@ -35,10 +35,6 @@ Contributions are welcome! If you want to contribute:
 4. Push the branch (`git push origin feature/awesome-feature`).
 5. Create a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - Thanks to ProgrammingHero for inspiration .
